@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Calculator
+//  ios_calculator
 //
-//  Created by 高锐 on 2017-05-24.
+//  Created by 高锐 on 2017-06-06.
 //  Copyright © 2017 Ray Gao. All rights reserved.
 //
 

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "99D4EB1B49BD4B2A8922E7196DFDC2F74602A008",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "715A82A230059561DC3BAA0CA5BE56FC3D31F45E" : 9223372036854775807,
+    "99D4EB1B49BD4B2A8922E7196DFDC2F74602A008" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "57DE11A8-93CA-4082-BE3E-18F8A3BCCBF7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "715A82A230059561DC3BAA0CA5BE56FC3D31F45E" : "",
+    "99D4EB1B49BD4B2A8922E7196DFDC2F74602A008" : "ios_calculator\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ios_calculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios_calculator\/ios_calculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/raygao25\/RPC-LIBRARY.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "715A82A230059561DC3BAA0CA5BE56FC3D31F45E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/raygao25\/ios_calculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "99D4EB1B49BD4B2A8922E7196DFDC2F74602A008"
+    }
+  ]
+}

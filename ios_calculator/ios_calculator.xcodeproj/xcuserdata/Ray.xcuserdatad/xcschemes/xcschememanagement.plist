@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Calculator.xcscheme</key>
+		<key>ios_calculator.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>7177FDA21ED600C000CDBAF8</key>
+		<key>713473DE1EE6657200C8A6BC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7177FDB61ED600C100CDBAF8</key>
+		<key>713473F21EE6657200C8A6BC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7177FDC11ED600C100CDBAF8</key>
+		<key>713473FD1EE6657200C8A6BC</key>
 		<dict>
 			<key>primary</key>
 			<true/>

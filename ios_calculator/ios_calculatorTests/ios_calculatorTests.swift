@@ -1,15 +1,15 @@
 //
-//  CalculatorTests.swift
-//  CalculatorTests
+//  ios_calculatorTests.swift
+//  ios_calculatorTests
 //
-//  Created by 高锐 on 2017-05-24.
+//  Created by 高锐 on 2017-06-06.
 //  Copyright © 2017 Ray Gao. All rights reserved.
 //
 
 import XCTest
-@testable import Calculator
+@testable import ios_calculator
 
-class CalculatorTests: XCTestCase {
+class ios_calculatorTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

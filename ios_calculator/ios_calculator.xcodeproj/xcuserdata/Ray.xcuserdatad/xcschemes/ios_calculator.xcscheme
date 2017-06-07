@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7177FDA21ED600C000CDBAF8"
-               BuildableName = "Calculator.app"
-               BlueprintName = "Calculator"
-               ReferencedContainer = "container:Calculator.xcodeproj">
+               BlueprintIdentifier = "713473DE1EE6657200C8A6BC"
+               BuildableName = "ios_calculator.app"
+               BlueprintName = "ios_calculator"
+               ReferencedContainer = "container:ios_calculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7177FDB61ED600C100CDBAF8"
-               BuildableName = "CalculatorTests.xctest"
-               BlueprintName = "CalculatorTests"
-               ReferencedContainer = "container:Calculator.xcodeproj">
+               BlueprintIdentifier = "713473F21EE6657200C8A6BC"
+               BuildableName = "ios_calculatorTests.xctest"
+               BlueprintName = "ios_calculatorTests"
+               ReferencedContainer = "container:ios_calculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7177FDC11ED600C100CDBAF8"
-               BuildableName = "CalculatorUITests.xctest"
-               BlueprintName = "CalculatorUITests"
-               ReferencedContainer = "container:Calculator.xcodeproj">
+               BlueprintIdentifier = "713473FD1EE6657200C8A6BC"
+               BuildableName = "ios_calculatorUITests.xctest"
+               BlueprintName = "ios_calculatorUITests"
+               ReferencedContainer = "container:ios_calculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7177FDA21ED600C000CDBAF8"
-            BuildableName = "Calculator.app"
-            BlueprintName = "Calculator"
-            ReferencedContainer = "container:Calculator.xcodeproj">
+            BlueprintIdentifier = "713473DE1EE6657200C8A6BC"
+            BuildableName = "ios_calculator.app"
+            BlueprintName = "ios_calculator"
+            ReferencedContainer = "container:ios_calculator.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7177FDA21ED600C000CDBAF8"
-            BuildableName = "Calculator.app"
-            BlueprintName = "Calculator"
-            ReferencedContainer = "container:Calculator.xcodeproj">
+            BlueprintIdentifier = "713473DE1EE6657200C8A6BC"
+            BuildableName = "ios_calculator.app"
+            BlueprintName = "ios_calculator"
+            ReferencedContainer = "container:ios_calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7177FDA21ED600C000CDBAF8"
-            BuildableName = "Calculator.app"
-            BlueprintName = "Calculator"
-            ReferencedContainer = "container:Calculator.xcodeproj">
+            BlueprintIdentifier = "713473DE1EE6657200C8A6BC"
+            BuildableName = "ios_calculator.app"
+            BlueprintName = "ios_calculator"
+            ReferencedContainer = "container:ios_calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
